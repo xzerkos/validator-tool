@@ -14,7 +14,7 @@ def display_banner():
     print("=" * 50)
     print("           Validator Tool")
     print("=" * 50)
-    print("[ Создатель и кодер: @osintapolov ] {validator tool}")
+    print("[ Создатель и кодер:  ] {validator tool}")
     print()
 
 def display_menu():
